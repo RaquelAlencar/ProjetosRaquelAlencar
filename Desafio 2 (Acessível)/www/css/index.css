@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://vemvoar.voeazul.com.br/wp-content/uploads/2019/05/conheca-a-cultura-e-os-encantos-de-sao-luis-do-maranhao.jpeg);
+    background-size: 90%;
+    grid-template-columns: 20px 60px 20px;
+    width: auto;
+    height: auto;
+}
+
+.butao {
+    background-color: #ece24b;
+    color: black;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+    border: black 2px solid;
+}
+
+.for {
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    border: black solid 3px;
+    border-radius: 25px;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    background-color: rgb(42, 165, 118);
+}
+
+.for span input {
+    width: 70%;
+}
+
+.for span textarea {
+    width: 70%;
+}
+
+@media (max-width: 700px) {
+    .for {
+        margin-top: 20px;
+        width: 85%;
+    }
+    .for span input {
+        width: 80%;
+    }
+    .for span textarea {
+        width: 80%;
+    }
+}

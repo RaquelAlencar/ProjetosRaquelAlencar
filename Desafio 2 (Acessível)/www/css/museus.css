@@ -1,0 +1,56 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #1ea7d1;
+}
+
+.mu {
+    text-align: center;
+    font-size: 30px;
+}
+
+.tt {
+    text-align: center;
+    font-size: 25px;
+}
+
+.img {
+    width: 50%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ref {
+    font-size: 17px;
+}
+
+p {
+    text-align: justify;
+    line-height: 40px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.indt {
+    text-indent: 10%;
+    display: flex;
+    font-size: 29px;
+    margin: 07px;
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.butao {
+    background-color: #a6f18f;
+    color: black;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+    border: black 2px solid;
+}
