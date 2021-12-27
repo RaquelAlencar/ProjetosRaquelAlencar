@@ -1,0 +1,32 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#adf8aa ;
+}
+.arr{
+    text-align: center;
+    font-size: 44px;
+}
+.img{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.arc{
+    font-size: 16px;
+}
+.ref{
+    font-size: 16px;
+}
+p{
+    text-align: justify;
+    line-height: 20px;
+}
+h1{
+    text-transform: uppercase;
+}
+.indt{
+    text-indent: 40px;
+}

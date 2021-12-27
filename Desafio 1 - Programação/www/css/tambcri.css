@@ -1,0 +1,31 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#e32ce9 ;
+}
+.pr{
+    text-align: center;
+}
+.img{
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#di{
+    display: flex;
+    justify-content: center;
+}
+.ref{
+    font-size: 16px;
+}
+p{
+    text-align: justify;
+    line-height: 20px;
+}
+h1{
+    text-transform: uppercase;
+}
+.indt{
+    text-indent: 40px;
+}
